@@ -1,0 +1,3 @@
+C:/Users/jcest/CLionProjects/paralela/correccionEjercicio2/cmake-build-debug/CMakeFiles/correccionEjercicio2.dir
+C:/Users/jcest/CLionProjects/paralela/correccionEjercicio2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jcest/CLionProjects/paralela/correccionEjercicio2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
